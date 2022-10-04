@@ -75,7 +75,7 @@
     "tosource": "2.0.0-alpha.3",
     "unified": "9.2.2",
     "vuepress": "1.9.7",
-    "vuepress-plugin-meilisearch": "0.12.2",
+    "vuepress-plugin-meilisearch": "0.12.4",
     "vuepress-plugin-sitemap": "2.3.1",
     "yorkie": "2.0.0"
   },
@@ -126,7 +126,7 @@
     "puppeteer-extra": "3.3.4",
     "puppeteer-extra-plugin-stealth": "2.11.1",
     "query-string": "7.1.1",
-    "rand-user-agent": "1.0.83",
+    "rand-user-agent": "1.0.84",
     "re2": "1.17.7",
     "require-all": "3.0.0",
     "rss-parser": "3.12.0",
